@@ -9,3 +9,9 @@ Agenda:
 - Lizenzierung
 - Mindestinstallationsanforderungen
 - Dateisystem
+- HyperV Basic
+- Netzwerkgrundlagen
+    - IPv4
+    - Subnetting
+    - APIPA 
+- Installation
