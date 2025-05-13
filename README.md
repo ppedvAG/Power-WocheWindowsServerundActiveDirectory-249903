@@ -15,3 +15,6 @@ Agenda:
     - Subnetting
     - APIPA 
 - Installation
+### Tag 2
+- Wiederholung
+- DHCP
