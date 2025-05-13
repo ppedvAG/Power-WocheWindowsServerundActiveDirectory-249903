@@ -28,3 +28,7 @@ Agenda:
 ### Tag 2
 - Wiederholung
 - DHCP
+- Dateiserver
+    - Berechtigungen
+- Storage Spaces
+- Datendeduplizierung
