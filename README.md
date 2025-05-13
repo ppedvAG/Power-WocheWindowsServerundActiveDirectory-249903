@@ -15,6 +15,16 @@ Agenda:
     - Subnetting
     - APIPA 
 - Installation
+- Active Directory Grundlagen
+    - Installation
+    - Domänencontroller
+    - Betriebsmaster
+- DNS
+    - Funktion
+    - Lookups
+    - Einrichtung
+    - Power-Shell: Einrichtung und Troubleshooting
+
 ### Tag 2
 - Wiederholung
 - DHCP
