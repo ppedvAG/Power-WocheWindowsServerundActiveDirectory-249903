@@ -32,3 +32,7 @@ Agenda:
     - Berechtigungen
 - Storage Spaces
 - Datendeduplizierung
+- Core Server
+### Tag 3
+- Wiederholung
+- Storage Replica
