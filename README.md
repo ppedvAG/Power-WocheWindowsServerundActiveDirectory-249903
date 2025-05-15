@@ -36,3 +36,5 @@ Agenda:
 ### Tag 3
 - Wiederholung
 - Storage Replica
+- Storage Spaces Direct
+- Windows Failovercluster
