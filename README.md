@@ -4,6 +4,8 @@ KursRepository zu Kurs Power-Woche: Windows Server und Active Directory der pped
 [Kursblatt](https://ppedv.de/Schulung/Kurse/WindowsServer2019_ActiveDirectory_Administration_NanoServer_SeminarTrainingPW?affid=PNXYL)
 
 Agenda:
+
+### Tag 1
 - Begrüßung
 - Historie
 - Lizenzierung
@@ -24,7 +26,6 @@ Agenda:
     - Lookups
     - Einrichtung
     - Power-Shell: Einrichtung und Troubleshooting
-
 ### Tag 2
 - Wiederholung
 - DHCP
@@ -38,3 +39,8 @@ Agenda:
 - Storage Replica
 - Storage Spaces Direct
 - Windows Failovercluster
+### Tag 4
+- Routing & Ras
+- NAT
+- Windows Admin Center
+- Windows Update

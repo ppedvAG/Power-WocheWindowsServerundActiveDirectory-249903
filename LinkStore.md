@@ -15,3 +15,7 @@ Hier findet Ihr alle Links bzw praktische / hilfreiche Ergänzungen und Informat
 [disksped](https://github.com/microsoft/diskspd )
 
 [Clusterzeuge](https://learn.microsoft.com/en-us/windows-server/failover-clustering/file-share-witness?tabs=domain-joined-witness)
+
+[Neuerungen 2025](https://learn.microsoft.com/en-us/windows-server/get-started/whats-new-windows-server-2025)
+
+[Client Access Licenses](https://www.microsoft.com/en-us/licensing/product-licensing/client-access-license)
