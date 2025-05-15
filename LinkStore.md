@@ -12,4 +12,6 @@ Hier findet Ihr alle Links bzw praktische / hilfreiche Ergänzungen und Informat
 
 [DHCP Failover](https://blog.ppedv.de/post/dhcp-failover-mit-windows-server-2012)
 
-[disksped](https://github.com/microsoft/diskspd -)
+[disksped](https://github.com/microsoft/diskspd )
+
+[Clusterzeuge](https://learn.microsoft.com/en-us/windows-server/failover-clustering/file-share-witness?tabs=domain-joined-witness)
