@@ -19,3 +19,7 @@ Hier findet Ihr alle Links bzw praktische / hilfreiche Ergänzungen und Informat
 [Neuerungen 2025](https://learn.microsoft.com/en-us/windows-server/get-started/whats-new-windows-server-2025)
 
 [Client Access Licenses](https://www.microsoft.com/en-us/licensing/product-licensing/client-access-license)
+
+[Globaler Katalog](https://learn.microsoft.com/en-us/windows/win32/ad/global-catalog)
+
+[Change Keyboard Settings via GPO](https://learn.microsoft.com/en-us/archive/technet-wiki/6281.how-to-set-the-keyboard-layout-through-group-policy-gpo)

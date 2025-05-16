@@ -30,3 +30,9 @@ Zum Installieren von zwei Features auf zwei Remote Server nacheinander mit autom
 ```powershell
 Invoke-Command -ComputerName Server2,Server3 -ScriptBlock {Install-WindowsFeature -Name FS-FileServer,Storage-Replica -IncludeManagementTools -Restart}
 ```
+---
+Zum Anzeigen aller User in meinem Active Directory
+```powershell
+Get-ADUser -filter *
+```
+---

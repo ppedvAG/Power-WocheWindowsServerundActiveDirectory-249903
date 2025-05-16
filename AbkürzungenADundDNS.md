@@ -13,6 +13,8 @@ KDC - Key Distribution Center
 TGT - Ticket Granting Ticket  
 DFS - Distributed File System  
 OU - Organisational Unit / Organisationseinheit  
+MMR - Multi Master Replikation  
+TLS - 
 
 
 ## DNS
